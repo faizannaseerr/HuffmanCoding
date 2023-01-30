@@ -1,6 +1,6 @@
 # Huffman Encoding & Decoding 🔐💻
 
-Created a program that uses Greedy Huffman Coding to compress text and share in a lossless manner. A user can input a text message, and the message will be encoded using Huffman encoding, and can be decoded back as well.
+Created a program that uses greedy Huffman coding to compress text and share in a lossless manner. A user can input a text message, and the message will be encoded using Huffman encoding, and can be decoded back as well.
 
 ## Process
 
