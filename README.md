@@ -8,7 +8,7 @@ Created a program that uses greedy Huffman coding to compress text and share in 
 - Read into what heaps are (max & min), a data structure I had not covered before
 - Implemented a function to create max heaps required for Huffman encoding
 - Implemented functions to encode and decode text messages via Huffman enoding & decoding
-- Functions rely on concepts, such as recursion and breadth first search (BFS), and data structures, such as lists, dictionaries, heaps, etc.
+- Functions rely on concepts, such as recursion and depth first search (DFS), and data structures, such as lists, dictionaries, heaps, etc.
 
 ## Running The Program
 
