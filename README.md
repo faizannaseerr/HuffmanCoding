@@ -12,8 +12,5 @@ Created a program that uses greedy Huffman coding to compress text and share in 
 
 ## Running The Program
 
-File named main.py should be downloaded and then ran as usual for any python program (either through an IDE, or through the terminal/CMD from the same directory as where file is downloaded e.g.
-
-cd downloads
-python main.py
+File named main.py should be downloaded and then ran as usual for any python program (either through an IDE, or through the terminal/CMD from the same directory as where file is downloaded)
 
