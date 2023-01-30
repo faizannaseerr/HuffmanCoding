@@ -4,7 +4,7 @@ Created a program that uses greedy Huffman coding to compress text and share in 
 
 ## Process
 
-- Had read about lossless compression online, and wanted to implement the Huffman Encoding algorithm individually after understanding its rudimentary idea
+- Had read about lossless compression online, and wanted to implement the Huffman Encoding algorithm individually after understanding what it is primarily based on
 - Read into what heaps are (max & min), a data structure I had not covered before
 - Implemented a function to create max heaps required for Huffman encoding
 - Implemented functions to encode and decode text messages via Huffman enoding & decoding
